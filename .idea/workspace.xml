@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dd47221-b64a-416c-aaf5-145ffca46695" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ctovEgfA0DJ3wOmCxKnOfC2Q7F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ScientificTest" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ScientificTest" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Start">
+    <configuration name="45_iris" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/tf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/tf/45_iris.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ScientificTest" type="PythonConfigurationType" factoryName="Python">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/tf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/tf/Start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/grammar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/grammar/file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Start" />
+        <item itemvalue="Python.45_iris" />
+        <item itemvalue="Python.file" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dd47221-b64a-416c-aaf5-145ffca46695" name="Default Changelist" comment="" />
+      <created>1591357478738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591357478738</updated>
+      <workItem from="1591357566610" duration="1393000" />
+      <workItem from="1591433886880" duration="1806000" />
+      <workItem from="1591668817906" duration="757000" />
+      <workItem from="1591670392225" duration="602000" />
+      <workItem from="1591676659367" duration="2290000" />
+      <workItem from="1591683621256" duration="12000" />
+      <workItem from="1591685197257" duration="25807000" />
+      <workItem from="1591773043363" duration="3883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591676943389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591676943389" />
+    <state width="1701" height="466" key="DebuggerActiveHint" timestamp="1591770089142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1701" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591770089142" />
+    <state width="1877" height="343" key="GridCell.Tab.0.bottom" timestamp="1591776580566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776580566" />
+    <state width="1557" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
+    <state width="1877" height="343" key="GridCell.Tab.0.center" timestamp="1591776580566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776580566" />
+    <state width="1557" height="316" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
+    <state width="1877" height="343" key="GridCell.Tab.0.left" timestamp="1591776580566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776580566" />
+    <state width="1557" height="316" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
+    <state width="1877" height="343" key="GridCell.Tab.0.right" timestamp="1591776580566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776580566" />
+    <state width="1557" height="316" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
+    <state width="1877" height="349" key="GridCell.Tab.1.bottom" timestamp="1591771765932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591771765932" />
+    <state width="1877" height="349" key="GridCell.Tab.1.center" timestamp="1591771765932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591771765932" />
+    <state width="1877" height="349" key="GridCell.Tab.1.left" timestamp="1591771765932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591771765932" />
+    <state width="1877" height="349" key="GridCell.Tab.1.right" timestamp="1591771765932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="349" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591771765932" />
+    <state x="636" y="249" key="SettingsEditor" timestamp="1591776928784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="249" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776928784" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1591776493324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776493324" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591752815260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591752815260" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ScientificTest$45_iris.coverage" NAME="45_iris Coverage Results" MODIFIED="1591774561875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$ScientificTest.coverage" NAME="ScientificTest Coverage Results" MODIFIED="1591676945746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Start.coverage" NAME="Start Coverage Results" MODIFIED="1591776580560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$file.coverage" NAME="file Coverage Results" MODIFIED="1591693776681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
+  </component>
+</project>
