@@ -1,5 +1,6 @@
 # _*_ coding: UTF-8 _*_
 # 利用鸢尾花数据集，实现前向传播、反向传播、loss曲线
+# TODO 本模型可以做的优化是，把学习率调整成动态的，由大到小的。
 
 import tensorflow as tf
 from sklearn import datasets
@@ -9,26 +10,24 @@ import numpy as np
 x_data = datasets.load_iris().data
 y_data = datasets.load_iris().target
 
-np.random.seed(116)
+seed = 100
+np.random.seed(seed)
 np.random.shuffle(x_data)
-np.random.seed(116)
+np.random.seed(seed)
 np.random.shuffle(y_data)
-tf.random.set_seed(116)  # why
+tf.random.set_seed(seed)  # why TODO
 
 x_train = x_data[:-30]
 y_train = y_data[:-30]
 x_test = x_data[-30:]
 y_test = y_data[-30:]
 
-# 矩阵相乘时，因数据类型不一致报错。why 标签集不用转，
+# 矩阵相乘时，因数据类型不一致报错。
 x_train = tf.cast(x_train, tf.float32)
 x_test = tf.cast(x_test, tf.float32)
 
 train_db = tf.data.Dataset.from_tensor_slices((x_train, y_train)).batch(32)
 test_db = tf.data.Dataset.from_tensor_slices((x_test, y_test)).batch(32)
-
-# why <BatchDataset shapes: ((None, 4), (None,)), types: (tf.float32, tf.int32)>
-# print(test_db)
 
 w1 = tf.Variable(tf.random.truncated_normal([4, 3], stddev=0.1, seed=1))  # 权重
 b1 = tf.Variable(tf.random.truncated_normal([3], stddev=0.1, seed=1))  # 偏移量
@@ -71,7 +70,7 @@ for epoch in range(epoch):
         y = tf.nn.softmax(y)
         pred = tf.argmax(y, axis=1)
         pred = tf.cast(pred, y_test.dtype)
-        # 若分类正确，则correct=1，否则为0，将bool型的结果转换为int型 。TODO 有疑问
+        # 若分类正确，则correct=1，否则为0，将bool型的结果转换为int型 。
         corrent = tf.cast(tf.equal(pred, y_test), dtype=tf.int32)
         # 将每个batch的current数累加起来
         corrent = tf.reduce_sum(corrent)
@@ -83,7 +82,7 @@ for epoch in range(epoch):
     # 总得准确率
     acc = total_corrent / total_number
     test_acc.append(acc)
-    print("Test_acc:{}, w1:{}, b1:{}".format(acc, w1, b1))
+    print("Test_acc:{}".format(acc))
     print('-------------------------------------')
 
 # 总结
@@ -92,16 +91,18 @@ plt.title("Loss Function Curve")
 plt.xlabel('Epoch')  # X 轴变量名称，
 plt.ylabel('Loss')
 plt.plot(train_loss_results, label='$Loss$')  # 逐点画出train_loss_results值，并连线图标是Loss
-plt.legend()  # 画出曲线图标 Why? how if not?
+plt.legend()  # 画出曲线图标
 plt.show()
 
 # 绘制 Accuracy 曲线
 plt.title('Acc Curve')
 plt.xlabel("Epoch")
 plt.ylabel("Acc")
-plt.plot(test_acc, label='$Accuracy$')  # 连线图标是Accuracy
+plt.plot(test_acc, label='$Accuracy$')
 plt.legend()
 plt.show()
+
+print(w1,b1)
 
 # 现实中，识别花朵类别，怎么解决，
 # 一样是收集数据、找导向结果的公式、参数，

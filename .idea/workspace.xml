@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dd47221-b64a-416c-aaf5-145ffca46695" name="Default Changelist" comment="" />
+    <list default="true" id="0dd47221-b64a-416c-aaf5-145ffca46695" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/numpy/mgrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/numpy/mgrid2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/numpy/mgrid3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/2.5.overfitting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/dot.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p10_backpropagation_decaylr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p19_mse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p20_custom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p22_ce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p23_softmaxce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p29_regularizationcontain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p29_regularizationfree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p32_sgd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p34_sgdm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p36_adagrad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p38_rmsprop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p40_adam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p4_where.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p5_RandomState.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p6_vstack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/p7_mgrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter2/优化器对比.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter3/p11_iris_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter3/p13_mnist_datasets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter3/p14_mnist_sequential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter3/p15_mnist_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter3/p16_fashion_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter3/p16_fashion_sequential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/chapter3/p8_iris_sequential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tf/pku/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/webcrawlers/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/grammar/grammerTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/grammar/grammerTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/tf/45_iris.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/tf/pku/1_iris.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +71,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ctovEgfA0DJ3wOmCxKnOfC2Q7F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,10 +83,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/models/tf/pku/chapter3" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -37,8 +97,18 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Start">
-    <configuration name="45_iris" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\pku" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\pku\chapter3" />
+      <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\pku\chapter2" />
+      <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\numpy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.p8_iris_sequential">
+    <configuration name="2.5.overfitting (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ScientificTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,12 +116,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/tf" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/tf/pku" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/tf/45_iris.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/tf/pku/2.5.overfitting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,28 +152,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ScientificTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/tf" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/tf/Start.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="ScientificTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mgrid3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ScientificTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,12 +182,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/grammar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/tf/numpy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/grammar/file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/tf/numpy/mgrid3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p29_regularizationcontain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/tf/pku/chapter2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/tf/pku/chapter2/p29_regularizationcontain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p29_regularizationfree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/tf/pku/chapter2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/tf/pku/chapter2/p29_regularizationfree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p8_iris_sequential" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/tf/pku/chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/tf/pku/chapter3/p8_iris_sequential.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,9 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Start" />
-        <item itemvalue="Python.45_iris" />
-        <item itemvalue="Python.file" />
+        <item itemvalue="Python.p8_iris_sequential" />
+        <item itemvalue="Python.p29_regularizationcontain" />
+        <item itemvalue="Python.p29_regularizationfree" />
+        <item itemvalue="Python.mgrid3" />
+        <item itemvalue="Python.2.5.overfitting (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -173,75 +289,129 @@
       <workItem from="1591676659367" duration="2290000" />
       <workItem from="1591683621256" duration="12000" />
       <workItem from="1591685197257" duration="25807000" />
-      <workItem from="1591773043363" duration="3883000" />
+      <workItem from="1591773043363" duration="23016000" />
+      <workItem from="1591923107041" duration="6859000" />
+      <workItem from="1592209579039" duration="600000" />
+      <workItem from="1592375817039" duration="777000" />
+      <workItem from="1592653054441" duration="2407000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1591844260183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591844260183" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591676943389">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591676943389" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591854421067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591854421067" />
     <state width="1701" height="466" key="DebuggerActiveHint" timestamp="1591770089142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1701" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591770089142" />
-    <state width="1877" height="343" key="GridCell.Tab.0.bottom" timestamp="1591776580566">
+    <state width="1877" height="390" key="GridCell.Tab.0.bottom" timestamp="1591968075763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776580566" />
+    <state width="1877" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591968075763" />
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591840585213" />
     <state width="1557" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
-    <state width="1877" height="343" key="GridCell.Tab.0.center" timestamp="1591776580566">
+    <state width="1877" height="390" key="GridCell.Tab.0.center" timestamp="1591968075763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776580566" />
+    <state width="1877" height="390" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591968075763" />
+    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591840585213" />
     <state width="1557" height="316" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
-    <state width="1877" height="343" key="GridCell.Tab.0.left" timestamp="1591776580566">
+    <state width="1877" height="390" key="GridCell.Tab.0.left" timestamp="1591968075763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776580566" />
+    <state width="1877" height="390" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591968075763" />
+    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591840585213" />
     <state width="1557" height="316" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
-    <state width="1877" height="343" key="GridCell.Tab.0.right" timestamp="1591776580566">
+    <state width="1877" height="390" key="GridCell.Tab.0.right" timestamp="1591968075763">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776580566" />
+    <state width="1877" height="390" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591968075763" />
+    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591840585213" />
     <state width="1557" height="316" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
-    <state width="1877" height="349" key="GridCell.Tab.1.bottom" timestamp="1591771765932">
+    <state width="1877" height="136" key="GridCell.Tab.1.bottom" timestamp="1591778564360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="349" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591771765932" />
-    <state width="1877" height="349" key="GridCell.Tab.1.center" timestamp="1591771765932">
+    <state width="1877" height="136" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591778564360" />
+    <state width="1877" height="136" key="GridCell.Tab.1.center" timestamp="1591778564360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="349" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591771765932" />
-    <state width="1877" height="349" key="GridCell.Tab.1.left" timestamp="1591771765932">
+    <state width="1877" height="136" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591778564360" />
+    <state width="1877" height="136" key="GridCell.Tab.1.left" timestamp="1591778564360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="349" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591771765932" />
-    <state width="1877" height="349" key="GridCell.Tab.1.right" timestamp="1591771765932">
+    <state width="1877" height="136" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591778564360" />
+    <state width="1877" height="136" key="GridCell.Tab.1.right" timestamp="1591778564360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="349" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591771765932" />
-    <state x="636" y="249" key="SettingsEditor" timestamp="1591776928784">
+    <state width="1877" height="136" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591778564360" />
+    <state x="405" y="154" key="SettingsEditor" timestamp="1591949224202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="636" y="249" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776928784" />
-    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1591776493324">
+    <state x="405" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591949224202" />
+    <state x="636" y="249" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591777091063" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1591777952734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591776493324" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591777952734" />
+    <state x="662" y="116" width="596" height="807" key="find.popup" timestamp="1591839723805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="116" width="596" height="807" key="find.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591839723805" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591752815260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591752815260" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/tf/pku/chapter2/p29_regularizationcontain.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ScientificTest$45_iris.coverage" NAME="45_iris Coverage Results" MODIFIED="1591774561875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p29_regularizationfree.coverage" NAME="p29_regularizationfree Coverage Results" MODIFIED="1591860999243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
+    <SUITE FILE_PATH="coverage/ScientificTest$mgrid.coverage" NAME="mgrid Coverage Results" MODIFIED="1591839604399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$45_iris.coverage" NAME="45_iris Coverage Results" MODIFIED="1591778805690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p29_regularizationcontain.coverage" NAME="p29_regularizationcontain Coverage Results" MODIFIED="1591861671476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
+    <SUITE FILE_PATH="coverage/ScientificTest$2_5_overfitting__1_.coverage" NAME="2.5.overfitting (1) Coverage Results" MODIFIED="1591859523324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku" />
+    <SUITE FILE_PATH="coverage/ScientificTest$file.coverage" NAME="file Coverage Results" MODIFIED="1591693776681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
+    <SUITE FILE_PATH="coverage/ScientificTest$mgrid3.coverage" NAME="mgrid3 Coverage Results" MODIFIED="1591860079615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/numpy" />
+    <SUITE FILE_PATH="coverage/ScientificTest$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1591844620761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/webcrawlers" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Second.coverage" NAME="Second Coverage Results" MODIFIED="1591840301585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku" />
+    <SUITE FILE_PATH="coverage/ScientificTest$mgrid2.coverage" NAME="mgrid2 Coverage Results" MODIFIED="1591840585208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
     <SUITE FILE_PATH="coverage/ScientificTest$ScientificTest.coverage" NAME="ScientificTest Coverage Results" MODIFIED="1591676945746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ScientificTest$Start.coverage" NAME="Start Coverage Results" MODIFIED="1591776580560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
-    <SUITE FILE_PATH="coverage/ScientificTest$file.coverage" NAME="file Coverage Results" MODIFIED="1591693776681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
+    <SUITE FILE_PATH="coverage/ScientificTest$grammerTest.coverage" NAME="grammerTest Coverage Results" MODIFIED="1591857535355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p8_iris_sequential.coverage" NAME="p8_iris_sequential Coverage Results" MODIFIED="1591930696056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter3" />
   </component>
 </project>
