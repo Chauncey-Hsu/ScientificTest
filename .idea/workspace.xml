@@ -19,20 +19,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dd47221-b64a-416c-aaf5-145ffca46695" name="Default Changelist" comment="ch3">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/clustering/dbscan/788points.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/clustering/dbscan/DbscanTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/clustering/dbscan/Test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/clustering/dbscan/Test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/clustering/dbscan/Test6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/clustering/dbscan/assist/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/clustering/dbscan/assist/Test4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/clustering/dbscan/assist/Test5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/grammar/file.rename.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/grammar/graph/fun.py" afterDir="false" />
+    <list default="true" id="0dd47221-b64a-416c-aaf5-145ffca46695" name="Default Changelist" comment="机器学习结束，数据流离群点检测开始">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/clustering/outlier/OutlierDetection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/clustering/outlier/ShipPosition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/clustering/outlier/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/clustering/outlier/导出8000 - 规整v2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/clustering/outlier/导出8000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/excel/01148AIS 操作.XLS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/excel/563005100_20201216150918.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/excel/CsvHandle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/excel/ExcelHandel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/excel/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/excel/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/knn/KnnTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/knn/Prostate_Cancer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/knn/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/rescue/ViewLonLat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/rescue/draw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/rescue/drawLonlat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/rescue/导出沉船报警记录.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/rescue/浙江省市经纬度.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/seaborn.Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/grammar/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/grammar/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/tf/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/tf/HelloWorld123.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +62,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="916c6036-029d-4e78-8459-45b8ed6e93f6" />
   <component name="ProjectId" id="1ctovEgfA0DJ3wOmCxKnOfC2Q7F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -62,9 +74,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/models/tf/pku" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/models/excel" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.documentation.PythonDocumentationConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -75,20 +87,87 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\PycharmProjects\ScientificTest\models\excel" />
+      <recent name="E:\Code\PycharmProjects\ScientificTest\models\knn" />
+      <recent name="E:\Code\PycharmProjects\ScientificTest\models\rescue" />
+      <recent name="E:\Code\PycharmProjects\ScientificTest\models\clustering\outlier" />
+      <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\pku" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\PycharmProjects\ScientificTest\models" />
       <recent name="E:\Code\PycharmProjects\ScientificTest\models\clustering\dbscan\assist" />
       <recent name="E:\Code\PycharmProjects\ScientificTest\models\clustering\dbscan" />
       <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\pku" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\pku" />
-      <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\pku\chapter4" />
-      <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\pku\chapter3" />
-      <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\pku\chapter2" />
-      <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\numpy" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.Test3">
+  <component name="RunManager" selected="Python.CsvHandle">
+    <configuration name="CsvHandle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/excel/CsvHandle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ExcelHandel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/excel/ExcelHandel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KnnTest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/knn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/knn/KnnTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ScientificTest" type="PythonConfigurationType" factoryName="Python">
       <module name="ScientificTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,116 +182,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ScientificTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/clustering/dbscan/assist" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/clustering/dbscan/assist/Test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ScientificTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/clustering/dbscan" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/clustering/dbscan/Test3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ScientificTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/clustering/dbscan" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\Code\PycharmProjects\ScientificTest\models\clustering\dbscan\assist\Test4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ScientificTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/clustering/dbscan/assist" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/clustering/dbscan/assist/Test5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Test6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ScientificTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/clustering/dbscan" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/clustering/dbscan/Test6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,16 +212,61 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="seaborn.Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/seaborn.Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ScientificTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/excel/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Test3" />
-        <item itemvalue="Python.Test6" />
-        <item itemvalue="Python.Test5" />
-        <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Test4" />
+        <item itemvalue="Python.CsvHandle" />
+        <item itemvalue="Python.ExcelHandel" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.seaborn.Test" />
+        <item itemvalue="Python.KnnTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
   </component>
@@ -284,6 +298,19 @@
       <workItem from="1593762898293" duration="1095000" />
       <workItem from="1597279565052" duration="17248000" />
       <workItem from="1599458325356" duration="23000" />
+      <workItem from="1606373061932" duration="9570000" />
+      <workItem from="1606705226239" duration="15234000" />
+      <workItem from="1606960976737" duration="5002000" />
+      <workItem from="1607591782624" duration="3404000" />
+      <workItem from="1607913861391" duration="2586000" />
+      <workItem from="1607927750517" duration="496000" />
+      <workItem from="1607928354640" duration="72000" />
+      <workItem from="1607928446128" duration="178000" />
+      <workItem from="1607928693355" duration="3000" />
+      <workItem from="1607928735384" duration="372000" />
+      <workItem from="1607929223509" duration="650000" />
+      <workItem from="1607995420429" duration="2520000" />
+      <workItem from="1608119152879" duration="4435000" />
     </task>
     <task id="LOCAL-00001" summary="ch4">
       <created>1592656771687</created>
@@ -299,11 +326,18 @@
       <option name="project" value="LOCAL" />
       <updated>1592657611532</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="机器学习结束，数据流离群点检测开始">
+      <created>1606373154969</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606373154969</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -320,103 +354,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ch4" />
     <MESSAGE value="ch3" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="586" y="198" key="#Inspections" timestamp="1591844260183">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="586" y="198" key="#Inspections/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591844260183" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591676943389">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591676943389" />
-    <state x="677" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597279745127">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="677" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597279745127" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591854421067">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1591854421067" />
-    <state width="1701" height="466" key="DebuggerActiveHint" timestamp="1597287396036">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1701" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597287396036" />
-    <state width="1701" height="466" key="DebuggerActiveHint/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591770089142" />
-    <state width="1877" height="203" key="GridCell.Tab.0.bottom" timestamp="1597374082475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597374082475" />
-    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591840585213" />
-    <state width="1557" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
-    <state width="1877" height="148" key="GridCell.Tab.0.bottom/1920.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1593159884817" />
-    <state width="1877" height="203" key="GridCell.Tab.0.center" timestamp="1597374082475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597374082475" />
-    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591840585213" />
-    <state width="1557" height="316" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
-    <state width="1877" height="148" key="GridCell.Tab.0.center/1920.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1593159884817" />
-    <state width="1877" height="203" key="GridCell.Tab.0.left" timestamp="1597374082475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597374082475" />
-    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591840585213" />
-    <state width="1557" height="316" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
-    <state width="1877" height="148" key="GridCell.Tab.0.left/1920.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1593159884817" />
-    <state width="1877" height="203" key="GridCell.Tab.0.right" timestamp="1597374082475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="203" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597374082475" />
-    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591840585213" />
-    <state width="1557" height="316" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1591705713106" />
-    <state width="1877" height="148" key="GridCell.Tab.0.right/1920.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1593159884817" />
-    <state width="1877" height="203" key="GridCell.Tab.1.bottom" timestamp="1597374082476">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="203" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597374082476" />
-    <state width="1877" height="136" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591778564360" />
-    <state width="1877" height="203" key="GridCell.Tab.1.center" timestamp="1597374082475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="203" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597374082475" />
-    <state width="1877" height="136" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591778564360" />
-    <state width="1877" height="203" key="GridCell.Tab.1.left" timestamp="1597374082475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="203" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597374082475" />
-    <state width="1877" height="136" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591778564360" />
-    <state width="1877" height="203" key="GridCell.Tab.1.right" timestamp="1597374082475">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="203" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597374082475" />
-    <state width="1877" height="136" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591778564360" />
-    <state x="405" y="154" key="SettingsEditor" timestamp="1597285276798">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="405" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597285276798" />
-    <state x="636" y="249" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591777091063" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1592657612995">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1440.860/0.0.1920.1040@0.0.1920.1040" timestamp="1592657612995" />
-    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1591777952734">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591777952734" />
-    <state x="531" y="315" key="com.jetbrains.python.documentation.PythonDocumentationEntryEditor" timestamp="1597285271635">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="531" y="315" key="com.jetbrains.python.documentation.PythonDocumentationEntryEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1597285271635" />
-    <state x="662" y="116" width="596" height="807" key="find.popup" timestamp="1591839723805">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="662" y="116" width="596" height="807" key="find.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591839723805" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591752815260">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1591752815260" />
+    <MESSAGE value="机器学习结束，数据流离群点检测开始" />
+    <option name="LAST_COMMIT_MESSAGE" value="机器学习结束，数据流离群点检测开始" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -431,30 +370,40 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ScientificTest$DbscanTest.coverage" NAME="DbscanTest Coverage Results" MODIFIED="1597279837730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p14_mnist_sequential.coverage" NAME="p14_mnist_sequential Coverage Results" MODIFIED="1592657302817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/class3" />
-    <SUITE FILE_PATH="coverage/ScientificTest$fun.coverage" NAME="fun Coverage Results" MODIFIED="1593159515673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar/graph" />
-    <SUITE FILE_PATH="coverage/ScientificTest$hello.coverage" NAME="hello Coverage Results" MODIFIED="1597281232865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
-    <SUITE FILE_PATH="coverage/ScientificTest$mgrid.coverage" NAME="mgrid Coverage Results" MODIFIED="1591839604399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
-    <SUITE FILE_PATH="coverage/ScientificTest$45_iris.coverage" NAME="45_iris Coverage Results" MODIFIED="1591778805690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
     <SUITE FILE_PATH="coverage/ScientificTest$file_rename.coverage" NAME="file.rename Coverage Results" MODIFIED="1593763969991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
-    <SUITE FILE_PATH="coverage/ScientificTest$2_5_overfitting__1_.coverage" NAME="2.5.overfitting (1) Coverage Results" MODIFIED="1591859523324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku" />
+    <SUITE FILE_PATH="coverage/ScientificTest$ViewLonLat.coverage" NAME="ViewLonLat Coverage Results" MODIFIED="1606715452824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/rescue" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p29_regularizationfree.coverage" NAME="p29_regularizationfree Coverage Results" MODIFIED="1591860999243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
+    <SUITE FILE_PATH="coverage/ScientificTest$mgrid.coverage" NAME="mgrid Coverage Results" MODIFIED="1591839604399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test4.coverage" NAME="Test4 Coverage Results" MODIFIED="1597285964123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
+    <SUITE FILE_PATH="coverage/ScientificTest$ExcelHandel.coverage" NAME="ExcelHandel Coverage Results" MODIFIED="1608121711245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/excel" />
+    <SUITE FILE_PATH="coverage/ScientificTest$OutlierDetection.coverage" NAME="OutlierDetection Coverage Results" MODIFIED="1606376364318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/outlier" />
+    <SUITE FILE_PATH="coverage/ScientificTest$file.coverage" NAME="file Coverage Results" MODIFIED="1591693776681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
     <SUITE FILE_PATH="coverage/ScientificTest$Test3.coverage" NAME="Test3 Coverage Results" MODIFIED="1597321737401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
     <SUITE FILE_PATH="coverage/ScientificTest$p27_mnist_app.coverage" NAME="p27_mnist_app Coverage Results" MODIFIED="1592656872738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter4/MNIST_FC" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test6.coverage" NAME="Test6 Coverage Results" MODIFIED="1597321712243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test4.coverage" NAME="Test4 Coverage Results" MODIFIED="1597285964123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
-    <SUITE FILE_PATH="coverage/ScientificTest$mgrid2.coverage" NAME="mgrid2 Coverage Results" MODIFIED="1591840585208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
-    <SUITE FILE_PATH="coverage/ScientificTest$grammerTest.coverage" NAME="grammerTest Coverage Results" MODIFIED="1591857535355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p8_iris_sequential.coverage" NAME="p8_iris_sequential Coverage Results" MODIFIED="1591930696056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter3" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p29_regularizationfree.coverage" NAME="p29_regularizationfree Coverage Results" MODIFIED="1591860999243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1597280562038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test.coverage" NAME="Test Coverage Results" MODIFIED="1597288450191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan/assist" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p29_regularizationcontain.coverage" NAME="p29_regularizationcontain Coverage Results" MODIFIED="1591861671476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
-    <SUITE FILE_PATH="coverage/ScientificTest$file.coverage" NAME="file Coverage Results" MODIFIED="1591693776681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
-    <SUITE FILE_PATH="coverage/ScientificTest$mgrid3.coverage" NAME="mgrid3 Coverage Results" MODIFIED="1591860079615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/numpy" />
-    <SUITE FILE_PATH="coverage/ScientificTest$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1591844620761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/webcrawlers" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Second.coverage" NAME="Second Coverage Results" MODIFIED="1591840301585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku" />
     <SUITE FILE_PATH="coverage/ScientificTest$ScientificTest.coverage" NAME="ScientificTest Coverage Results" MODIFIED="1591676945746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Start.coverage" NAME="Start Coverage Results" MODIFIED="1591776580560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p8_iris_sequential.coverage" NAME="p8_iris_sequential Coverage Results" MODIFIED="1591930696056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter3" />
+    <SUITE FILE_PATH="coverage/ScientificTest$draw.coverage" NAME="draw Coverage Results" MODIFIED="1606723932365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/rescue" />
+    <SUITE FILE_PATH="coverage/ScientificTest$2_5_overfitting__1_.coverage" NAME="2.5.overfitting (1) Coverage Results" MODIFIED="1591859523324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test6.coverage" NAME="Test6 Coverage Results" MODIFIED="1597321712243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
+    <SUITE FILE_PATH="coverage/ScientificTest$mgrid2.coverage" NAME="mgrid2 Coverage Results" MODIFIED="1591840585208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p14_mnist_sequential.coverage" NAME="p14_mnist_sequential Coverage Results" MODIFIED="1592657302817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/class3" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1597280562038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p29_regularizationcontain.coverage" NAME="p29_regularizationcontain Coverage Results" MODIFIED="1591861671476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
     <SUITE FILE_PATH="coverage/ScientificTest$Test5.coverage" NAME="Test5 Coverage Results" MODIFIED="1597307689536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan/assist" />
+    <SUITE FILE_PATH="coverage/ScientificTest$CsvHandle.coverage" NAME="CsvHandle Coverage Results" MODIFIED="1608122845946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/excel" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Start.coverage" NAME="Start Coverage Results" MODIFIED="1591776580560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$45_iris.coverage" NAME="45_iris Coverage Results" MODIFIED="1591778805690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$grammerTest.coverage" NAME="grammerTest Coverage Results" MODIFIED="1591857535355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
+    <SUITE FILE_PATH="coverage/ScientificTest$fun.coverage" NAME="fun Coverage Results" MODIFIED="1593159515673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar/graph" />
+    <SUITE FILE_PATH="coverage/ScientificTest$KnnTest.coverage" NAME="KnnTest Coverage Results" MODIFIED="1606965280052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/knn" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test.coverage" NAME="Test Coverage Results" MODIFIED="1597288450191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan/assist" />
+    <SUITE FILE_PATH="coverage/ScientificTest$test.coverage" NAME="test Coverage Results" MODIFIED="1608121113953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/excel" />
+    <SUITE FILE_PATH="coverage/ScientificTest$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1591844620761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/webcrawlers" />
+    <SUITE FILE_PATH="coverage/ScientificTest$mgrid3.coverage" NAME="mgrid3 Coverage Results" MODIFIED="1591860079615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/numpy" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1606378626521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/outlier" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Second.coverage" NAME="Second Coverage Results" MODIFIED="1591840301585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku" />
+    <SUITE FILE_PATH="coverage/ScientificTest$drawLonlat.coverage" NAME="drawLonlat Coverage Results" MODIFIED="1606719034895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/rescue" />
+    <SUITE FILE_PATH="coverage/ScientificTest$hello.coverage" NAME="hello Coverage Results" MODIFIED="1597281232865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
+    <SUITE FILE_PATH="coverage/ScientificTest$seaborn_Test.coverage" NAME="seaborn.Test Coverage Results" MODIFIED="1607929870087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
   </component>
 </project>
