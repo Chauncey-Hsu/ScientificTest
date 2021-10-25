@@ -13,6 +13,7 @@ np.random.seed(116)
 np.random.shuffle(y_train)
 tf.random.set_seed(116)
 
+
 class IrisModel(Model):
     def __init__(self):
         super(IrisModel, self).__init__()
@@ -22,6 +23,7 @@ class IrisModel(Model):
         y = self.d1(x)
         return y
 
+
 model = IrisModel()
 
 model.compile(optimizer=tf.keras.optimizers.SGD(lr=0.1),
@@ -30,4 +32,3 @@ model.compile(optimizer=tf.keras.optimizers.SGD(lr=0.1),
 
 model.fit(x_train, y_train, batch_size=32, epochs=500, validation_split=0.2, validation_freq=20)
 model.summary()
-
