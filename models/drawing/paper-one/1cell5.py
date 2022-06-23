@@ -6,26 +6,29 @@ from mpl_toolkits.mplot3d import Axes3D  # 空间三维画图
 # 数据
 
 # 数据１
-# data1 = np.arange(24).reshape((8, 3))
-data1 = np.arange(24).reshape((8, 3))
-# data的值如下：
-# [[ 0  1  2]
-#  [ 3  4  5]
-#  [ 6  7  8]
-#  [ 9 10 11]
-#  [12 13 14]
-#  [15 16 17]
-#  [18 19 20]
-#  [21 22 23]]
 z = [[122.5, 30.5, 1635149700]]
 data1 = np.array(z).reshape(1, 3)
 print(data1)
-# data1 = data1.T
-# print(data1)
-
 x1 = data1[:, 0]  # [ 0  3  6  9 12 15 18 21]
 y1 = data1[:, 1]  # [ 1  4  7 10 13 16 19 22]
 z1 = data1[:, 2]  # [ 2  5  8 11 14 17 20 23]
+
+
+# 数据１
+a1 = [[122.0, 30.0, 1635149400]]
+data11 = np.array(a1).reshape(1, 3)
+print(data11)
+x11 = data11[:, 0]  # [ 0  3  6  9 12 15 18 21]
+y11 = data11[:, 1]  # [ 1  4  7 10 13 16 19 22]
+z11 = data11[:, 2]  #
+
+a2 = [[123.0, 31.0, 1635150000]]
+data12 = np.array(a2).reshape(1, 3)
+print(data12)
+x12 = data12[:, 0]  # [ 0  3  6  9 12 15 18 21]
+y12 = data12[:, 1]  # [ 1  4  7 10 13 16 19 22]
+z12 = data12[:, 2]  # [ 2  5
+
 
 # 数据２
 # 经度
@@ -69,8 +72,10 @@ z2 = data2[:, 2]
 # 绘制散点图
 fig = plt.figure()
 ax = Axes3D(fig)
-ax.scatter(x1, y1, z1, c='r', label='new model')
-# ax.scatter(x2, y2, z2, c='r', label='position')
+# ax.scatter(x1, y1, z1, c='r', label='new model')
+ax.scatter(x1, y1, z1, c='r', label='STGSM')
+ax.scatter(x11, y11, z11, c='w')
+ax.scatter(x12, y12, z12, c='w')
 
 # 绘制图例
 ax.legend(loc='best')
