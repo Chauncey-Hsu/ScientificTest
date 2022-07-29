@@ -22,10 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dd47221-b64a-416c-aaf5-145ffca46695" name="Default Changelist" comment="paper-one-作图1">
+    <list default="true" id="0dd47221-b64a-416c-aaf5-145ffca46695" name="Default Changelist" comment="-----隔开----">
+      <change afterPath="$PROJECT_DIR$/models/liaoxuefeng/1.helloworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/liaoxuefeng/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/liaoxuefeng/廖雪峰官网再次学习.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/drawing/paper-one/1cell5.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/drawing/paper-one/1cell5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/grammar/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/grammar/hello.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,20 +76,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/models/drawing/paper-one" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="ScientificTest" is-module-sdk="true">
@@ -113,8 +109,8 @@
       <recent name="E:\Code\PycharmProjects\ScientificTest\models\tf\pku" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hello">
-    <configuration name="1cell3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1.helloworld">
+    <configuration name="1.helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ScientificTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,12 +118,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\lenovo\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/drawing/paper-one" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models/liaoxuefeng" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/drawing/paper-one/1cell3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/liaoxuefeng/1.helloworld.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1.helloworld" />
         <item itemvalue="Python.hello" />
         <item itemvalue="Python.1cell5" />
         <item itemvalue="Python.1cell4.1" />
         <item itemvalue="Python.1cell4" />
-        <item itemvalue="Python.1cell3" />
       </list>
     </recent_temporary>
   </component>
@@ -361,6 +357,7 @@
       <workItem from="1641553224072" duration="170000" />
       <workItem from="1641553725230" duration="1272000" />
       <workItem from="1641604824024" duration="1483000" />
+      <workItem from="1655971731732" duration="3860000" />
     </task>
     <task id="LOCAL-00001" summary="ch4">
       <created>1592656771687</created>
@@ -404,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635166288732</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="-----隔开----">
+      <created>1655971832886</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655971832886</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,7 +433,8 @@
     <MESSAGE value="对csv和excel的读取编写" />
     <MESSAGE value="===========隔断=========" />
     <MESSAGE value="paper-one-作图1" />
-    <option name="LAST_COMMIT_MESSAGE" value="paper-one-作图1" />
+    <MESSAGE value="-----隔开----" />
+    <option name="LAST_COMMIT_MESSAGE" value="-----隔开----" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -455,54 +460,55 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ScientificTest$fun.coverage" NAME="fun Coverage Results" MODIFIED="1593159515673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar/graph" />
+    <SUITE FILE_PATH="coverage/ScientificTest$HelloSklearn.coverage" NAME="HelloSklearn Coverage Results" MODIFIED="1608296697861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/sklearn" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p29_regularizationfree.coverage" NAME="p29_regularizationfree Coverage Results" MODIFIED="1591860999243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
+    <SUITE FILE_PATH="coverage/ScientificTest$grammerTest.coverage" NAME="grammerTest Coverage Results" MODIFIED="1591857535355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
+    <SUITE FILE_PATH="coverage/ScientificTest$DbscanTest.coverage" NAME="DbscanTest Coverage Results" MODIFIED="1597279837730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
+    <SUITE FILE_PATH="coverage/ScientificTest$file.coverage" NAME="file Coverage Results" MODIFIED="1591693776681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
     <SUITE FILE_PATH="coverage/ScientificTest$seaborn_Test.coverage" NAME="seaborn.Test Coverage Results" MODIFIED="1607929870087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
     <SUITE FILE_PATH="coverage/ScientificTest$p14_mnist_sequential.coverage" NAME="p14_mnist_sequential Coverage Results" MODIFIED="1592657302817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/class3" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test4.coverage" NAME="Test4 Coverage Results" MODIFIED="1597285964123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Second.coverage" NAME="Second Coverage Results" MODIFIED="1591840301585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test.coverage" NAME="Test Coverage Results" MODIFIED="1597288450191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan/assist" />
-    <SUITE FILE_PATH="coverage/ScientificTest$1cell2.coverage" NAME="1cell2 Coverage Results" MODIFIED="1635145483829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p7_mgrid.coverage" NAME="p7_mgrid Coverage Results" MODIFIED="1608274808483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
-    <SUITE FILE_PATH="coverage/ScientificTest$1cell5.coverage" NAME="1cell5 Coverage Results" MODIFIED="1635208942479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
-    <SUITE FILE_PATH="coverage/ScientificTest$KnnTest.coverage" NAME="KnnTest Coverage Results" MODIFIED="1606965280052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/knn" />
-    <SUITE FILE_PATH="coverage/ScientificTest$DbscanTest.coverage" NAME="DbscanTest Coverage Results" MODIFIED="1597279837730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p6_vstack.coverage" NAME="p6_vstack Coverage Results" MODIFIED="1608273239946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
     <SUITE FILE_PATH="coverage/ScientificTest$ScientificTest.coverage" NAME="ScientificTest Coverage Results" MODIFIED="1591676945746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p4_where.coverage" NAME="p4_where Coverage Results" MODIFIED="1608272948700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p8_iris_sequential.coverage" NAME="p8_iris_sequential Coverage Results" MODIFIED="1591930696056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter3" />
-    <SUITE FILE_PATH="coverage/ScientificTest$HelloSklearn.coverage" NAME="HelloSklearn Coverage Results" MODIFIED="1608296697861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/sklearn" />
-    <SUITE FILE_PATH="coverage/ScientificTest$hello.coverage" NAME="hello Coverage Results" MODIFIED="1641609041681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
-    <SUITE FILE_PATH="coverage/ScientificTest$1cell.coverage" NAME="1cell Coverage Results" MODIFIED="1635145590493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
-    <SUITE FILE_PATH="coverage/ScientificTest$draw.coverage" NAME="draw Coverage Results" MODIFIED="1606723932365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/rescue" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1597280562038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p29_regularizationfree.coverage" NAME="p29_regularizationfree Coverage Results" MODIFIED="1591860999243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
-    <SUITE FILE_PATH="coverage/ScientificTest$ViewLonLat.coverage" NAME="ViewLonLat Coverage Results" MODIFIED="1606715452824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/rescue" />
-    <SUITE FILE_PATH="coverage/ScientificTest$drawLonlat.coverage" NAME="drawLonlat Coverage Results" MODIFIED="1606719034895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/rescue" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p29_regularizationcontain.coverage" NAME="p29_regularizationcontain Coverage Results" MODIFIED="1591861671476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
-    <SUITE FILE_PATH="coverage/ScientificTest$grammerTest.coverage" NAME="grammerTest Coverage Results" MODIFIED="1591857535355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
-    <SUITE FILE_PATH="coverage/ScientificTest$mgrid.coverage" NAME="mgrid Coverage Results" MODIFIED="1591839604399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
-    <SUITE FILE_PATH="coverage/ScientificTest$test.coverage" NAME="test Coverage Results" MODIFIED="1608121113953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/excel" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test6.coverage" NAME="Test6 Coverage Results" MODIFIED="1597321712243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test3.coverage" NAME="Test3 Coverage Results" MODIFIED="1597321737401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1606378626521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/outlier" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p27_mnist_app.coverage" NAME="p27_mnist_app Coverage Results" MODIFIED="1592656872738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter4/MNIST_FC" />
     <SUITE FILE_PATH="coverage/ScientificTest$p5_RandomState.coverage" NAME="p5_RandomState Coverage Results" MODIFIED="1608273124962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
+    <SUITE FILE_PATH="coverage/ScientificTest$KnnTest.coverage" NAME="KnnTest Coverage Results" MODIFIED="1606965280052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/knn" />
+    <SUITE FILE_PATH="coverage/ScientificTest$mgrid2.coverage" NAME="mgrid2 Coverage Results" MODIFIED="1591840585208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$draw.coverage" NAME="draw Coverage Results" MODIFIED="1606723932365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/rescue" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test3.coverage" NAME="Test3 Coverage Results" MODIFIED="1597321737401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
+    <SUITE FILE_PATH="coverage/ScientificTest$1cell3.coverage" NAME="1cell3 Coverage Results" MODIFIED="1635146009105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test.coverage" NAME="Test Coverage Results" MODIFIED="1597288450191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan/assist" />
+    <SUITE FILE_PATH="coverage/ScientificTest$test.coverage" NAME="test Coverage Results" MODIFIED="1608121113953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/excel" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test2.coverage" NAME="Test2 Coverage Results" MODIFIED="1597280562038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
+    <SUITE FILE_PATH="coverage/ScientificTest$hello.coverage" NAME="hello Coverage Results" MODIFIED="1641609041681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
+    <SUITE FILE_PATH="coverage/ScientificTest$OutlierDetection.coverage" NAME="OutlierDetection Coverage Results" MODIFIED="1606376364318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/outlier" />
+    <SUITE FILE_PATH="coverage/ScientificTest$1cell.coverage" NAME="1cell Coverage Results" MODIFIED="1635145590493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
+    <SUITE FILE_PATH="coverage/ScientificTest$ViewLonLat.coverage" NAME="ViewLonLat Coverage Results" MODIFIED="1606715452824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/rescue" />
+    <SUITE FILE_PATH="coverage/ScientificTest$mgrid3.coverage" NAME="mgrid3 Coverage Results" MODIFIED="1591860079615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/numpy" />
+    <SUITE FILE_PATH="coverage/ScientificTest$drawLonlat.coverage" NAME="drawLonlat Coverage Results" MODIFIED="1606719034895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/rescue" />
+    <SUITE FILE_PATH="coverage/ScientificTest$1cell4_1.coverage" NAME="1cell4.1 Coverage Results" MODIFIED="1635162236385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
+    <SUITE FILE_PATH="coverage/ScientificTest$mgrid.coverage" NAME="mgrid Coverage Results" MODIFIED="1591839604399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
+    <SUITE FILE_PATH="coverage/ScientificTest$1cell4.coverage" NAME="1cell4 Coverage Results" MODIFIED="1635162954289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
+    <SUITE FILE_PATH="coverage/ScientificTest$2_5_overfitting__1_.coverage" NAME="2.5.overfitting (1) Coverage Results" MODIFIED="1591859523324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p4_where.coverage" NAME="p4_where Coverage Results" MODIFIED="1608272948700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Second.coverage" NAME="Second Coverage Results" MODIFIED="1591840301585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p8_iris_sequential.coverage" NAME="p8_iris_sequential Coverage Results" MODIFIED="1591930696056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter3" />
+    <SUITE FILE_PATH="coverage/ScientificTest$1cell2.coverage" NAME="1cell2 Coverage Results" MODIFIED="1635145483829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
+    <SUITE FILE_PATH="coverage/ScientificTest$1cell5.coverage" NAME="1cell5 Coverage Results" MODIFIED="1635208942479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
     <SUITE FILE_PATH="coverage/ScientificTest$p19_mse.coverage" NAME="p19_mse Coverage Results" MODIFIED="1608275089526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
     <SUITE FILE_PATH="coverage/ScientificTest$45_iris.coverage" NAME="45_iris Coverage Results" MODIFIED="1591778805690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
-    <SUITE FILE_PATH="coverage/ScientificTest$1cell4_1.coverage" NAME="1cell4.1 Coverage Results" MODIFIED="1635162236385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
-    <SUITE FILE_PATH="coverage/ScientificTest$mgrid2.coverage" NAME="mgrid2 Coverage Results" MODIFIED="1591840585208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Start.coverage" NAME="Start Coverage Results" MODIFIED="1608291198098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
-    <SUITE FILE_PATH="coverage/ScientificTest$2_5_overfitting__1_.coverage" NAME="2.5.overfitting (1) Coverage Results" MODIFIED="1591859523324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku" />
-    <SUITE FILE_PATH="coverage/ScientificTest$1cell3.coverage" NAME="1cell3 Coverage Results" MODIFIED="1635146009105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
-    <SUITE FILE_PATH="coverage/ScientificTest$fun.coverage" NAME="fun Coverage Results" MODIFIED="1593159515673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar/graph" />
-    <SUITE FILE_PATH="coverage/ScientificTest$OutlierDetection.coverage" NAME="OutlierDetection Coverage Results" MODIFIED="1606376364318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/outlier" />
-    <SUITE FILE_PATH="coverage/ScientificTest$p27_mnist_app.coverage" NAME="p27_mnist_app Coverage Results" MODIFIED="1592656872738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter4/MNIST_FC" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p6_vstack.coverage" NAME="p6_vstack Coverage Results" MODIFIED="1608273239946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test4.coverage" NAME="Test4 Coverage Results" MODIFIED="1597285964123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test6.coverage" NAME="Test6 Coverage Results" MODIFIED="1597321712243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p29_regularizationcontain.coverage" NAME="p29_regularizationcontain Coverage Results" MODIFIED="1591861671476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
+    <SUITE FILE_PATH="coverage/ScientificTest$p7_mgrid.coverage" NAME="p7_mgrid Coverage Results" MODIFIED="1608274808483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
+    <SUITE FILE_PATH="coverage/ScientificTest$ExcelHandel.coverage" NAME="ExcelHandel Coverage Results" MODIFIED="1623987200089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/excel" />
+    <SUITE FILE_PATH="coverage/ScientificTest$1_helloworld.coverage" NAME="1.helloworld Coverage Results" MODIFIED="1655990043653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/liaoxuefeng" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1606378626521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/outlier" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Test5.coverage" NAME="Test5 Coverage Results" MODIFIED="1597307689536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan/assist" />
     <SUITE FILE_PATH="coverage/ScientificTest$p10_backpropagation_decaylr.coverage" NAME="p10_backpropagation_decaylr Coverage Results" MODIFIED="1608274871080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/pku/chapter2" />
-    <SUITE FILE_PATH="coverage/ScientificTest$file.coverage" NAME="file Coverage Results" MODIFIED="1591693776681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
-    <SUITE FILE_PATH="coverage/ScientificTest$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1608272934635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/webcrawlers" />
-    <SUITE FILE_PATH="coverage/ScientificTest$mgrid3.coverage" NAME="mgrid3 Coverage Results" MODIFIED="1591860079615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf/numpy" />
+    <SUITE FILE_PATH="coverage/ScientificTest$Start.coverage" NAME="Start Coverage Results" MODIFIED="1608291198098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/tf" />
     <SUITE FILE_PATH="coverage/ScientificTest$CsvHandle.coverage" NAME="CsvHandle Coverage Results" MODIFIED="1608122845946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/excel" />
     <SUITE FILE_PATH="coverage/ScientificTest$file_rename.coverage" NAME="file.rename Coverage Results" MODIFIED="1593763969991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/grammar" />
-    <SUITE FILE_PATH="coverage/ScientificTest$ExcelHandel.coverage" NAME="ExcelHandel Coverage Results" MODIFIED="1623987200089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/excel" />
-    <SUITE FILE_PATH="coverage/ScientificTest$Test5.coverage" NAME="Test5 Coverage Results" MODIFIED="1597307689536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/clustering/dbscan/assist" />
-    <SUITE FILE_PATH="coverage/ScientificTest$1cell4.coverage" NAME="1cell4 Coverage Results" MODIFIED="1635162954289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/drawing/paper-one" />
+    <SUITE FILE_PATH="coverage/ScientificTest$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1608272934635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/webcrawlers" />
   </component>
 </project>
